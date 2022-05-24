@@ -1,14 +1,16 @@
 # GameDevTVGameJam
 
-![Cover]()
+![Cover](screenshots/playinggif.gif)
 
-A Text based Adventure Game.
+A Top down Adventure Game.
 
 Made for the [The GameDev.tv Game Jam 2022 2022](https://itch.io/jam/gamedevtv-jam-2022)
 
-### Theme :
+## Theme : Death is only the begining
 
-### Language / Framework : Lua / Pico 8
+### Language : Lua
+
+### Engine : Pico 8
 
 ### Get on itch.io :
 
@@ -16,13 +18,16 @@ Made for the [The GameDev.tv Game Jam 2022 2022](https://itch.io/jam/gamedevtv-j
 
 ### Controls :
 
-Arrow keys,
+Arrow keys
 
 ### Code : by me
 
-### Sounds/Musics : by me
+### Sfx : by me
 
-### Graphism :
+### Graphics :
+
+- Character tiles : [Aleksandr Makarov](https://iknowkingrabbit.itch.io/)
+- Other tiles : [StoneTrench](https://stonetrench.itch.io/)
 
 ### Development duration :
 
@@ -30,7 +35,9 @@ Arrow keys,
 
 ### Screenshots:
 
-![Home](screenshots/)  
-![Game Over](screenshots/)  
-![Victory](screenshots/)  
+![Home](screenshots/home.png)
+![Play screen](screenshots/playscreen.png)
+![Failure play](screenshots/failuregif.gif)
+![Game Over](screenshots/failure.png)  
+![Victory](screenshots/victory.png)  
 by Sesso Kosga kosgasesso@gmail.com
