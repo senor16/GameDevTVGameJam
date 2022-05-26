@@ -5,8 +5,13 @@
 A Top down Adventure Game.
 
 Made for the [The GameDev.tv Game Jam 2022 2022](https://itch.io/jam/gamedevtv-jam-2022)
+2
 
 ## Theme : Death is only the begining
+
+### Synopsis:
+
+He thought that it was as simple as going from point A to point B but, he didn't knew that dead was on the way, and most importantly, DEATH IS ONLY THE BEGENING
 
 ### Language : Lua
 
